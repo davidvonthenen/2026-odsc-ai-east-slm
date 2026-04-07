@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# no model files
+*.pt
+*merged*
+*trial*
+*qwen*
+
 # C extensions
 *.so
 
