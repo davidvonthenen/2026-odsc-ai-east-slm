@@ -28,8 +28,8 @@ If you don't have access to this kind of hardware, you can at least download the
 
 There are 3 separate demo projects:
 
-- [demo/1_SLM](./demos/1_SLM/README.md)
-- [demo/2_FineTune_Quant](./demos/2_FineTune_Quant/README.md)
-- [demo/3_MLM](./demos/3_MLM/README.md)
+- [demo/1_SLM](./demo/1_SLM/README.md)
+- [demo/2_FineTune_Quant](./demo/2_FineTune_Quant/README.md)
+- [demo/3_MLM](./demo/3_MLM/README.md)
 
 The instructions and purpose for each demo is contained within their respective folders.
