@@ -10,8 +10,7 @@ This repo intends to provide an introduction to:
 - Provide a guide for Fine-tuning and Quantization
 - Provide a guide for Distillation Training
 
-> **IMPORTANT:** Do not actually use any of these models rep
-> motely close for production. There are already a **TON** of models that do this exact thing. Definitely, use those models over these.
+> **IMPORTANT:** Do not actually use any of these models for production. There are already a **TON** of models that do this exact thing. (Check out HuggingFace) Definitely, use those models over these. 
 
 ## Hardware Prerequisites
 
