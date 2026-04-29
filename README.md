@@ -1,4 +1,4 @@
-# ODSC AI East - Train Your Own Small Language Model: A Hands-On Workshop in Model Design, Distillation, and Deployment
+# ODSC AI East 2026 (Tutorial) - Train Your Own Small Language Model: A Hands-On Workshop in Model Design, Distillation, and Deployment
 
 Welcome to the landing page for the session `Train Your Own Small Language Model: A Hands-On Workshop in Model Design, Distillation, and Deployment` at the `ODSC AI East 2026`.
 
