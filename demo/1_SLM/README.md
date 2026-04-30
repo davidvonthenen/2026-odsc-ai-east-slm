@@ -2,6 +2,8 @@
 
 This project provides an end-to-end build of a Small Language Model (SLM) from scratch.
 
+> **IMPORTANT:** This is only for demonstration purposes only. There are already properly pre-built SLMs available on huggingface. Definitely, use those models over these.
+
 ## Prerequisites
 
 - Python 3.12+
