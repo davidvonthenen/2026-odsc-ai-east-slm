@@ -2,7 +2,13 @@
 
 This project provides an end-to-end build of a SQL-based Small Language Model (SLM) via fine-tuning and quantization.
 
-> **IMPORTANT:** This tutorial is intentionally targeting non-GPUs (think Apple MLX, CPU, Intel AMX, etc). If you are interested in quantizing for like NVIDIA GPUs from FP32 -> BF16, take a look at this repo/code: [https://github.com/davidvonthenen/2026-scale-23x-slm/tree/main/demo/2_FineTune_Quant](https://github.com/davidvonthenen/2026-scale-23x-slm/tree/main/demo/2_FineTune_Quant).
+> **IMPORTANT:** Do not actually use any of these examples models for production. There are already a **TON** of models that do this exact thing built for production. (Check out HuggingFace) Definitely, use those models over these. Some examples below...
+>
+> Take a look at:
+> [https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct)
+>
+> CPU Quantized:
+> [https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF)
 
 ## Prerequisites
 
